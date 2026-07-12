@@ -319,6 +319,14 @@ h3 {
     grid-template-columns: 1fr;
   }
 
+  .about-title-col {
+    order: 2;
+  }
+
+  .about-columns {
+    order: 1;
+  }
+
   .top-bar {
     flex-direction: column;
     align-items: center;
