@@ -108,9 +108,10 @@ h3 {
 }
 
 .btn-about {
-  display: inline-flex;
+  display: flex;
   align-items: center;
   justify-content: center;
+  width: fit-content;
   background: var(--accent);
   color: white;
   text-decoration: none;
