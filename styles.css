@@ -311,7 +311,11 @@ h3 {
 }
 
 @media (max-width: 900px) {
-  .about-grid,
+  .about-grid {
+    display: flex;
+    flex-direction: column;
+  }
+
   .about-columns,
   .involvement-grid,
   .cta-grid,
