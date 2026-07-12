@@ -147,7 +147,7 @@ h3 {
   display: flex;
   flex-direction: column;
   align-items: flex-start;
-  gap: 0.5rem;
+  gap: 4rem;
 }
 
 .about-columns {
