@@ -338,7 +338,7 @@ h3 {
   .about-grid .btn-about {
     order: 3;
     grid-column: auto;
-    margin-top: 0.2rem;
+    margin-top: -0.5rem;
   }
 
   .top-bar {
