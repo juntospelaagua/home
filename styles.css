@@ -147,8 +147,7 @@ h3 {
   display: flex;
   flex-direction: column;
   align-items: flex-start;
-  justify-content: space-between;
-  min-height: 320px;
+  gap: 1.2rem;
 }
 
 .about-columns {
